@@ -3,7 +3,7 @@
 An end-to-end data analytics and web integration project designed to transform Formula 1 race data into actionable insights. This project embeds interactive Tableau visualizations into a custom Python Flask web application, making complex race metrics accessible to analysts, strategists, and fans.
 
 ## 🌐 Live Project Links
-* *Live Web Application:* [Your GitHub Pages URL Here]
+* *Live Web Application:* [https://anya.anmoflow.com/]
 * *Project Demo Video:* [Watch Explanation Video](https://cap.scourtfx.info/s/n2qxzm385qpjgd5)
 * *Tableau Interactive Dashboard:* [View on Tableau Public](https://public.tableau.com/app/profile/aanya.jain6010/viz/f1-dashboard-final_17931153978570/Formula1RaceIntelligenceDashboard?publish=yes)
 * *Tableau Championship Story:* [View on Tableau Public](https://public.tableau.com/app/profile/aanya.jain6010/viz/f1-story-final_17931155504790/Formula1RaceIntelligenceStory?publish=yes)
